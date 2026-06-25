@@ -99,6 +99,9 @@ psql --version
 > **Screenshot 2:** Take a screenshot showing the output of both commands.
 >
 > `[insert screenshot]`
+> <img width="682" height="483" alt="Capture d’écran 2026-06-25 à 13 13 13" src="https://github.com/user-attachments/assets/b19d70e9-dba2-4fe7-ba5c-14fe6fbd2619" />
+
+
 
 ---
 
@@ -155,6 +158,8 @@ Exit the superuser session:
 > and both `SELECT` results inside the `postgres=#` session.
 >
 > `[insert screenshot]`
+> <img width="682" height="483" alt="Capture d’écran 2026-06-25 à 13 21 32" src="https://github.com/user-attachments/assets/6bbe84af-209f-47c4-a50c-da4edd146fca" />
+
 
 ---
 
@@ -257,6 +262,8 @@ Inspect the structure of one table:
 > `\d ausleihe`.
 >
 > `[insert screenshot]`
+> <img width="1440" height="900" alt="Capture d’écran 2026-06-25 à 13 25 23" src="https://github.com/user-attachments/assets/81d47ce3-1c44-41eb-82c4-6f06293cd179" />
+
 
 ### Questions for Section 4
 
@@ -415,6 +422,8 @@ SELECT COUNT(*) FROM mitglied;
 > **Screenshot 5:** Take a screenshot showing the three `COUNT(*)` results.
 >
 > `[insert screenshot]`
+> <img width="682" height="567" alt="Capture d’écran 2026-06-25 à 13 34 08" src="https://github.com/user-attachments/assets/1b0da970-cba1-4bf2-98d9-b2566b1ded9e" />
+
 
 Exit `psql`:
 
@@ -500,6 +509,8 @@ SELECT * FROM ausleihe;
 > **Screenshot 6:** Take a screenshot showing the full output of `SELECT * FROM ausleihe`.
 >
 > `[insert screenshot]`
+><img width="682" height="567" alt="Capture d’écran 2026-06-25 à 13 44 50" src="https://github.com/user-attachments/assets/80831e16-6f17-4fd0-8165-2b947b9cc36a" />
+
 
 ### Questions for Section 6
 
@@ -825,6 +836,8 @@ psql -U <your-username> -d kino -f kino.sql
 > **Screenshot 8:** Take a screenshot showing the script execution output.
 >
 > `[insert screenshot]`
+> <img width="682" height="567" alt="Capture d’écran 2026-06-25 à 14 08 47" src="https://github.com/user-attachments/assets/3f3f2797-5680-4f0c-a9fe-b73558c1ec0b" />
+
 
 ---
 
@@ -878,6 +891,8 @@ ORDER BY reservierungen DESC;
 > `SELECT` statements.
 >
 > `[insert screenshot]`
+> <img width="682" height="931" alt="Capture d’écran 2026-06-25 à 14 13 36" src="https://github.com/user-attachments/assets/e69c3ee3-5b35-4deb-9c13-92c287405943" />
+
 
 ### Questions for Section 9
 
